@@ -1,0 +1,6 @@
+Yielded Supply,"Yielded Supply: Initial supply available, calculated as wafers per week multiplied by bytes per wafer and yield at every stage, Calculated field"
+Safety Stock Target,"Safety Stock Target: Additional inventory to mitigate demand and lead time uncertainty, ensuring supply continuity, Calculated field"
+Safety Stock Target (WOS),"Safety Stock Target (WOS): Safety stock measured in weeks of supply, calculated as WOS multiplied by average demand, and provide in the dataset as fix value"
+EffectiveDemand,"EffectiveDemand: Demand signal adjusted for variability and feedback, used for aligning supply and inventory planning. Fixed Value"
+Total Projected Inventory Balance,Total Projected Inventory Balance: Inventory balance projected to be between 100M-200M bytes per quarter for optimization. Calculated Field and Goal Seek
+Inventory Balance in excess of SST,"Inventory Balance in excess of SST: Inventory exceeding Safety Stock Target, managed to avoid overstock and ensure optimal levels. Calculated field"

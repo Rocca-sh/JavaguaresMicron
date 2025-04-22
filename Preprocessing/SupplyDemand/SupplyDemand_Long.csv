@@ -1,0 +1,316 @@
+Product_ID,Attribute,Quarter,Value
+21A,Safety Stock Target,Q2_95,0.0
+21A,EffectiveDemand,Q2_95,0.0
+21A,Total Projected Inventory Balance,Q2_95,141337199.35999998
+22B,Safety Stock Target,Q2_95,0.0
+22B,EffectiveDemand,Q2_95,0.0
+22B,Total Projected Inventory Balance,Q2_95,164824302.72
+23C,Safety Stock Target,Q2_95,0.0
+23C,EffectiveDemand,Q2_95,0.0
+23C,Total Projected Inventory Balance,Q2_95,184132359.936
+21A,Safety Stock Target,Q3_95,679992670.5717602
+21A,EffectiveDemand,Q3_95,3920865476.2527657
+21A,Total Projected Inventory Balance,Q3_95,-398900228.9237671
+22B,Safety Stock Target,Q3_95,283186617.3041231
+22B,EffectiveDemand,Q3_95,1541047872.0
+22B,Total Projected Inventory Balance,Q3_95,318044713.0594976
+23C,Safety Stock Target,Q3_95,706503770.3388937
+23C,EffectiveDemand,Q3_95,4705495605.907281
+23C,Total Projected Inventory Balance,Q3_95,2088819147.929823
+21A,Safety Stock Target,Q4_95,545315430.298146
+21A,EffectiveDemand,Q4_95,4857090504.084001
+21A,Total Projected Inventory Balance,Q4_95,-5255990733.007768
+22B,Safety Stock Target,Q4_95,396739587.2068459
+22B,EffectiveDemand,Q4_95,2358376697.6000004
+22B,Total Projected Inventory Balance,Q4_95,-2040331984.5405028
+23C,Safety Stock Target,Q4_95,947758578.0083736
+23C,EffectiveDemand,Q4_95,6467992263.665929
+23C,Total Projected Inventory Balance,Q4_95,-4379173115.736106
+21A,Safety Stock Target,Q1_96,479106991.06482095
+21A,EffectiveDemand,Q1_96,3895110216.415329
+21A,Total Projected Inventory Balance,Q1_96,-9151100949.423096
+22B,Safety Stock Target,Q1_96,213027450.185226
+22B,EffectiveDemand,Q1_96,2312831674.299999
+22B,Total Projected Inventory Balance,Q1_96,-4353163658.840502
+23C,Safety Stock Target,Q1_96,1255316127.5691347
+23C,EffectiveDemand,Q1_96,5867076911.480407
+23C,Total Projected Inventory Balance,Q1_96,-10246250027.216513
+21A,Safety Stock Target,Q2_96,983931852.1396012
+21A,EffectiveDemand,Q2_96,3422192793.3201494
+21A,Total Projected Inventory Balance,Q2_96,-12573293742.743244
+22B,Safety Stock Target,Q2_96,228154867.3361104
+22B,EffectiveDemand,Q2_96,1241864059.3757567
+22B,Total Projected Inventory Balance,Q2_96,-5595027718.216259
+23C,Safety Stock Target,Q2_96,1505515703.428649
+23C,EffectiveDemand,Q2_96,6276580637.845675
+23C,Total Projected Inventory Balance,Q2_96,-16522830665.062187
+21A,Safety Stock Target,Q3_96,398993213.1640063
+21A,EffectiveDemand,Q3_96,7028084658.140007
+21A,Total Projected Inventory Balance,Q3_96,-19601378400.88325
+22B,Safety Stock Target,Q3_96,272551315.15328914
+22B,EffectiveDemand,Q3_96,2660101592.2595825
+22B,Total Projected Inventory Balance,Q3_96,-8255129310.4758415
+23C,Safety Stock Target,Q3_96,1245147107.3478353
+23C,EffectiveDemand,Q3_96,15055157034.286486
+23C,Total Projected Inventory Balance,Q3_96,-31577987699.34867
+21A,Safety Stock Target,Q4_96,132231364.79720488
+21A,EffectiveDemand,Q4_96,2849951522.6000447
+21A,Total Projected Inventory Balance,Q4_96,-22451329923.48329
+22B,Safety Stock Target,Q4_96,235712126.7930976
+22B,EffectiveDemand,Q4_96,1588864169.055049
+22B,Total Projected Inventory Balance,Q4_96,-9843993479.530891
+23C,Safety Stock Target,Q4_96,950490474.8088772
+23C,EffectiveDemand,Q4_96,6225735536.739175
+23C,Total Projected Inventory Balance,Q4_96,-37803723236.087845
+21A,Safety Stock Target,Q1_97,207997195.50839943
+21A,EffectiveDemand,Q1_97,944509748.5514634
+21A,Total Projected Inventory Balance,Q1_97,-23395839672.03476
+22B,Safety Stock Target,Q1_97,228618627.10814825
+22B,EffectiveDemand,Q1_97,1479807074.0373838
+22B,Total Projected Inventory Balance,Q1_97,-11323800553.568275
+23C,Safety Stock Target,Q1_97,557841858.418099
+23C,EffectiveDemand,Q1_97,5118025633.586262
+23C,Total Projected Inventory Balance,Q1_97,-42921748869.6741
+21A,Safety Stock Target,Q2_97,205904100.24823096
+21A,EffectiveDemand,Q2_97,1485694253.631425
+21A,Total Projected Inventory Balance,Q2_97,-24881533925.666183
+22B,Safety Stock Target,Q2_97,203069711.7995721
+22B,EffectiveDemand,Q2_97,1332754328.4331512
+22B,Total Projected Inventory Balance,Q2_97,-12656554882.001429
+23C,Safety Stock Target,Q2_97,423382482.23913056
+23C,EffectiveDemand,Q2_97,2789209292.090495
+23C,Total Projected Inventory Balance,Q2_97,-45710958161.7646
+21A,Safety Stock Target,Q3_97,423122271.64277
+21A,EffectiveDemand,Q3_97,1470743573.2016497
+21A,Total Projected Inventory Balance,Q3_97,-26352277498.867832
+22B,Safety Stock Target,Q3_97,169041931.49319857
+22B,EffectiveDemand,Q3_97,1183814463.4055777
+22B,Total Projected Inventory Balance,Q3_97,-13840369345.407003
+23C,Safety Stock Target,Q3_97,329349303.42925304
+23C,EffectiveDemand,Q3_97,2116912411.1956527
+23C,Total Projected Inventory Balance,Q3_97,-47827870572.96025
+21A,Safety Stock Target,Q4_97,323975730.0763917
+21A,EffectiveDemand,Q4_97,3022301940.3055
+21A,Total Projected Inventory Balance,Q4_97,-29374579439.17333
+22B,Safety Stock Target,Q4_97,145858376.3124611
+22B,EffectiveDemand,Q4_97,2956338712.212891
+22B,Total Projected Inventory Balance,Q4_97,-16796708057.619896
+23C,Safety Stock Target,Q4_97,299385627.2526903
+23C,EffectiveDemand,Q4_97,4940239551.43881
+23C,Total Projected Inventory Balance,Q4_97,-52768110124.39906
+21A,Safety Stock Target,Q1_98,301197771.39978284
+21A,EffectiveDemand,Q1_98,2314112357.688512
+21A,Total Projected Inventory Balance,Q1_98,-31688691796.861843
+22B,Safety Stock Target,Q1_98,37348231.427510895
+22B,EffectiveDemand,Q1_98,850295467.2923743
+22B,Total Projected Inventory Balance,Q1_98,-17647003524.91227
+23C,Safety Stock Target,Q1_98,295325594.98422664
+23C,EffectiveDemand,Q1_98,1496928136.263451
+23C,Total Projected Inventory Balance,Q1_98,-54265038260.66251
+21A,Safety Stock Target,Q2_98,274919741.00987774
+21A,EffectiveDemand,Q2_98,2151412652.855592
+21A,Total Projected Inventory Balance,Q2_98,-33840104449.717438
+22B,Safety Stock Target,Q2_98,29466118.228894003
+22B,EffectiveDemand,Q2_98,217725115.9451308
+22B,Total Projected Inventory Balance,Q2_98,-17864728640.8574
+23C,Safety Stock Target,Q2_98,303687636.2484366
+23C,EffectiveDemand,Q2_98,1476627974.921133
+23C,Total Projected Inventory Balance,Q2_98,-55741666235.58365
+21A,Safety Stock Target,Q3_98,268938559.4800322
+21A,EffectiveDemand,Q3_98,1963712435.7848408
+21A,Total Projected Inventory Balance,Q3_98,-35803816885.50227
+22B,Safety Stock Target,Q3_98,20702458.79896478
+22B,EffectiveDemand,Q3_98,171775577.11911303
+22B,Total Projected Inventory Balance,Q3_98,-18036504217.976517
+23C,Safety Stock Target,Q3_98,226764404.2723092
+23C,EffectiveDemand,Q3_98,1518438181.242183
+23C,Total Projected Inventory Balance,Q3_98,-57260104416.82583
+21A,Safety Stock Target,Q4_98,384197942.1143317
+21A,EffectiveDemand,Q4_98,1920989710.5716584
+21A,Total Projected Inventory Balance,Q4_98,-37724806596.07393
+22B,Safety Stock Target,Q4_98,20702458.79896476
+22B,EffectiveDemand,Q4_98,120686979.5455346
+22B,Total Projected Inventory Balance,Q4_98,-18157191197.52205
+23C,Safety Stock Target,Q4_98,206098486.8323092
+23C,EffectiveDemand,Q4_98,1133822021.3615458
+23C,Total Projected Inventory Balance,Q4_98,-58393926438.18738
+21A,Safety Stock Target,Q1_99,206875814.98464015
+21A,EffectiveDemand,Q1_99,2744271015.1023693
+21A,Total Projected Inventory Balance,Q1_99,-40469077611.1763
+22B,Safety Stock Target,Q1_99,11147477.81482718
+22B,EffectiveDemand,Q1_99,172409970.77933496
+22B,Total Projected Inventory Balance,Q1_99,-18329601168.301384
+23C,Safety Stock Target,Q1_99,86585754.82304114
+23C,EffectiveDemand,Q1_99,1472132048.8022084
+23C,Total Projected Inventory Balance,Q1_99,-59866058486.98959
+21A,Safety Stock Target,Q2_99,627716745.46
+21A,EffectiveDemand,Q2_99,1477684392.7474298
+21A,Total Projected Inventory Balance,Q2_99,-41946762003.92373
+22B,Safety Stock Target,Q2_99,243750504.4670769
+22B,EffectiveDemand,Q2_99,92836138.1119496
+22B,Total Projected Inventory Balance,Q2_99,-18422437306.413334
+23C,Safety Stock Target,Q2_99,992067193.2153844
+23C,EffectiveDemand,Q2_99,792686487.8165739
+23C,Total Projected Inventory Balance,Q2_99,-60658744974.80616
+21A,Safety Stock Target,Q3_99,972001279.06
+21A,EffectiveDemand,Q3_99,4483691039.0
+21A,Total Projected Inventory Balance,Q3_99,-46430453042.92373
+22B,Safety Stock Target,Q3_99,143890645.2243077
+22B,EffectiveDemand,Q3_99,2029952952.0
+22B,Total Projected Inventory Balance,Q3_99,-20452390258.413334
+23C,Safety Stock Target,Q3_99,521726858.9107692
+23C,EffectiveDemand,Q3_99,9082305290.0
+23C,Total Projected Inventory Balance,Q3_99,-69741050264.80615
+21A,Safety Stock Target,Q4_99,491940394.4
+21A,EffectiveDemand,Q4_99,6942866279.0
+21A,Total Projected Inventory Balance,Q4_99,-53373319321.92373
+22B,Safety Stock Target,Q4_99,287263933.9823077
+22B,EffectiveDemand,Q4_99,1198320556.0
+22B,Total Projected Inventory Balance,Q4_99,-21650710814.413334
+23C,Safety Stock Target,Q4_99,944275576.1092308
+23C,EffectiveDemand,Q4_99,4776372652.0
+23C,Total Projected Inventory Balance,Q4_99,-74517422916.80615
+21A,Safety Stock Target,Q1_00,365608831.98
+21A,EffectiveDemand,Q1_00,3513859960.0
+21A,Total Projected Inventory Balance,Q1_00,-56887179281.92373
+22B,Safety Stock Target,Q1_00,204151490.18492308
+22B,EffectiveDemand,Q1_00,2392332570.0
+22B,Total Projected Inventory Balance,Q1_00,-24043043384.413334
+23C,Safety Stock Target,Q1_00,1448298453.9430768
+23C,EffectiveDemand,Q1_00,8644776401.0
+23C,Total Projected Inventory Balance,Q1_00,-83162199317.80615
+21A,Safety Stock Target,Q2_00,
+21A,EffectiveDemand,Q2_00,2611491657.0
+21A,Total Projected Inventory Balance,Q2_00,
+22B,Safety Stock Target,Q2_00,
+22B,EffectiveDemand,Q2_00,1700172564.0
+22B,Total Projected Inventory Balance,Q2_00,
+23C,Safety Stock Target,Q2_00,
+23C,EffectiveDemand,Q2_00,13259070353.0
+23C,Total Projected Inventory Balance,Q2_00,
+21A,Safety Stock Target,Q3_00,
+21A,EffectiveDemand,Q3_00,1540401888.0
+21A,Total Projected Inventory Balance,Q3_00,
+22B,Safety Stock Target,Q3_00,
+22B,EffectiveDemand,Q3_00,2558729191.0
+22B,Total Projected Inventory Balance,Q3_00,
+23C,Safety Stock Target,Q3_00,
+23C,EffectiveDemand,Q3_00,14636965958.0
+23C,Total Projected Inventory Balance,Q3_00,
+21A,Safety Stock Target,Q4_00,
+21A,EffectiveDemand,Q4_00,3641157689.0
+21A,Total Projected Inventory Balance,Q4_00,
+22B,Safety Stock Target,Q4_00,
+22B,EffectiveDemand,Q4_00,679981194.0
+22B,Total Projected Inventory Balance,Q4_00,
+23C,Safety Stock Target,Q4_00,
+23C,EffectiveDemand,Q4_00,5009097095.0
+23C,Total Projected Inventory Balance,Q4_00,
+21A,Safety Stock Target,Q1_01,
+21A,EffectiveDemand,Q1_01,2129799840.0
+21A,Total Projected Inventory Balance,Q1_01,
+22B,Safety Stock Target,Q1_01,
+22B,EffectiveDemand,Q1_01,1235318519.0
+22B,Total Projected Inventory Balance,Q1_01,
+23C,Safety Stock Target,Q1_01,
+23C,EffectiveDemand,Q1_01,3076657109.0
+23C,Total Projected Inventory Balance,Q1_01,
+21A,Safety Stock Target,Q2_01,
+21A,EffectiveDemand,Q2_01,3999136982.0
+21A,Total Projected Inventory Balance,Q2_01,
+22B,Safety Stock Target,Q2_01,
+22B,EffectiveDemand,Q2_01,1051986719.0
+22B,Total Projected Inventory Balance,Q2_01,
+23C,Safety Stock Target,Q2_01,
+23C,EffectiveDemand,Q2_01,6336835871.0
+23C,Total Projected Inventory Balance,Q2_01,
+21A,Safety Stock Target,Q3_01,
+21A,EffectiveDemand,Q3_01,3229493114.0
+21A,Total Projected Inventory Balance,Q3_01,
+22B,Safety Stock Target,Q3_01,
+22B,EffectiveDemand,Q3_01,2280317814.0
+22B,Total Projected Inventory Balance,Q3_01,
+23C,Safety Stock Target,Q3_01,
+23C,EffectiveDemand,Q3_01,4869241729.0
+23C,Total Projected Inventory Balance,Q3_01,
+21A,Safety Stock Target,Q4_01,
+21A,EffectiveDemand,Q4_01,4841253891.0
+21A,Total Projected Inventory Balance,Q4_01,
+22B,Safety Stock Target,Q4_01,
+22B,EffectiveDemand,Q4_01,1716153959.0
+22B,Total Projected Inventory Balance,Q4_01,
+23C,Safety Stock Target,Q4_01,
+23C,EffectiveDemand,Q4_01,2366380350.0
+23C,Total Projected Inventory Balance,Q4_01,
+21A,Safety Stock Target,Q1_02,
+21A,EffectiveDemand,Q1_02,2799733837.0
+21A,Total Projected Inventory Balance,Q1_02,
+22B,Safety Stock Target,Q1_02,
+22B,EffectiveDemand,Q1_02,1043557130.0
+22B,Total Projected Inventory Balance,Q1_02,
+23C,Safety Stock Target,Q1_02,
+23C,EffectiveDemand,Q1_02,8886117345.0
+23C,Total Projected Inventory Balance,Q1_02,
+21A,Safety Stock Target,Q2_02,
+21A,EffectiveDemand,Q2_02,3108651811.0
+21A,Total Projected Inventory Balance,Q2_02,
+22B,Safety Stock Target,Q2_02,
+22B,EffectiveDemand,Q2_02,2144985258.0
+22B,Total Projected Inventory Balance,Q2_02,
+23C,Safety Stock Target,Q2_02,
+23C,EffectiveDemand,Q2_02,10960561216.0
+23C,Total Projected Inventory Balance,Q2_02,
+21A,Safety Stock Target,Q3_02,
+21A,EffectiveDemand,Q3_02,2338729679.0
+21A,Total Projected Inventory Balance,Q3_02,
+22B,Safety Stock Target,Q3_02,
+22B,EffectiveDemand,Q3_02,1892232865.0
+22B,Total Projected Inventory Balance,Q3_02,
+23C,Safety Stock Target,Q3_02,
+23C,EffectiveDemand,Q3_02,9553273310.0
+23C,Total Projected Inventory Balance,Q3_02,
+21A,Safety Stock Target,Q4_02,
+21A,EffectiveDemand,Q4_02,5089378170.0
+21A,Total Projected Inventory Balance,Q4_02,
+22B,Safety Stock Target,Q4_02,
+22B,EffectiveDemand,Q4_02,813031055.0
+22B,Total Projected Inventory Balance,Q4_02,
+23C,Safety Stock Target,Q4_02,
+23C,EffectiveDemand,Q4_02,11416542925.0
+23C,Total Projected Inventory Balance,Q4_02,
+21A,Safety Stock Target,Q1_03,
+21A,EffectiveDemand,Q1_03,5928392971.0
+21A,Total Projected Inventory Balance,Q1_03,
+22B,Safety Stock Target,Q1_03,
+22B,EffectiveDemand,Q1_03,1963865830.0
+22B,Total Projected Inventory Balance,Q1_03,
+23C,Safety Stock Target,Q1_03,
+23C,EffectiveDemand,Q1_03,11288374390.0
+23C,Total Projected Inventory Balance,Q1_03,
+21A,Safety Stock Target,Q2_03,
+21A,EffectiveDemand,Q2_03,1690158851.0
+21A,Total Projected Inventory Balance,Q2_03,
+22B,Safety Stock Target,Q2_03,
+22B,EffectiveDemand,Q2_03,1631591332.0
+22B,Total Projected Inventory Balance,Q2_03,
+23C,Safety Stock Target,Q2_03,
+23C,EffectiveDemand,Q2_03,3736677684.0
+23C,Total Projected Inventory Balance,Q2_03,
+21A,Safety Stock Target,Q3_03,
+21A,EffectiveDemand,Q3_03,2434860447.0
+21A,Total Projected Inventory Balance,Q3_03,
+22B,Safety Stock Target,Q3_03,
+22B,EffectiveDemand,Q3_03,803641152.0
+22B,Total Projected Inventory Balance,Q3_03,
+23C,Safety Stock Target,Q3_03,
+23C,EffectiveDemand,Q3_03,4331513188.0
+23C,Total Projected Inventory Balance,Q3_03,
+21A,Safety Stock Target,Q4_03,
+21A,EffectiveDemand,Q4_03,2751263430.0
+21A,Total Projected Inventory Balance,Q4_03,
+22B,Safety Stock Target,Q4_03,
+22B,EffectiveDemand,Q4_03,899379883.0
+22B,Total Projected Inventory Balance,Q4_03,
+23C,Safety Stock Target,Q4_03,
+23C,EffectiveDemand,Q4_03,3669820560.0
+23C,Total Projected Inventory Balance,Q4_03,
